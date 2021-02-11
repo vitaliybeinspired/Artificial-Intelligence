@@ -15,3 +15,17 @@ Unsupervised learning is having the training data then trying to group them into
 2.Describe why the following statement is FALSE: Scikit-Learn has the power to visualize data without a Graphviz, Pandas, or other data analysis libraries.
 
 Scikit Learn is focused on Machine Learning, e.g data modelling. It is not concerned with the loading, handling, manipulating, and visualising of data.
+
+# Day 3 (2/10)
+
+1. What are “Tensors” and what are they used for in Machine Learning? 
+
+They are vectors with basis (1 unit of anything I’m using) and have 3 subcomponents like vector A has xyz sub components. 
+They are the same from any observer and reference frame. Can have multiple directions.
+
+
+2.What did you notice about the computations that you ran in the TensorFlow 
+programs (i.e. interactive models) in the tutorial? 
+
+They are all arrays. 
+
