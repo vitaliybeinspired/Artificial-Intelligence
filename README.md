@@ -32,6 +32,9 @@ They are all arrays.
 # Day 4 (2/11)
 
 Problem: Predicting stock market 
+
 Data: Huge Stock Market Dataset https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs 
+
 Algorithm: Convolutional neural networks. 
+
 I learned about batches would take a section of training data. The whole data is one epoch.
