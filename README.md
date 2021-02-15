@@ -46,12 +46,12 @@ I learned about batches would take a section of training data. The whole data is
 
 # Day 5 (2/12)
 
-In the convolutional neural network, I learned that the CNN has an optional Pooling layer which increases the accuracy. The pooling layer takes a section and calculates the max and average of all the pixels in that section.
-
 
 Sarcasim notebook that removes common words and converts them to vectors then tests which headlines are sarcastic or not.
 I learned that I need to use a sequenal model and to visual data at every step to make sure that samples are balanced for example.
 
 # Day 8 (2/15)
+
+In the convolutional neural network, I learned that the CNN has an optional Pooling layer which increases the accuracy. The pooling layer takes a section and calculates the max and average of all the pixels in that section.
 
 
