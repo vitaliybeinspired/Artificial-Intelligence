@@ -43,3 +43,9 @@ Data: Huge Stock Market Dataset https://www.kaggle.com/borismarjanovic/price-vol
 Algorithm: Convolutional neural networks. 
 
 I learned about batches would take a section of training data. The whole data is one epoch.
+
+# Day 5 (2/12)
+
+Sarcasim notebook that removes common words and converts them to vectors then tests which headlines are sarcastic or not.
+I learned that I need to use a sequenal model and to visual data at every step to make sure that samples are balanced for example.
+
