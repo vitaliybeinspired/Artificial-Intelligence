@@ -54,4 +54,6 @@ I learned that I need to use a sequenal model and to visual data at every step t
 
 In the convolutional neural network, I learned that the CNN has an optional Pooling layer which increases the accuracy. The pooling layer takes a section and calculates the max and average of all the pixels in that section.
 
+# Day 9 (2/26)
 
+Bias in the vision and languge of AI was that it labels yellow banana instead of banana like people would because people don't say yellow because it's common. I also remember reading about the AI creating a model on past successful resumes which was biased and applying it to current people.
