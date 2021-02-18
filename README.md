@@ -54,6 +54,24 @@ I learned that I need to use a sequenal model and to visual data at every step t
 
 In the convolutional neural network, I learned that the CNN has an optional Pooling layer which increases the accuracy. The pooling layer takes a section and calculates the max and average of all the pixels in that section.
 
-# Day 9 (2/26)
+# Day 9 (2/16)
 
 Bias in the vision and languge of AI was that it labels yellow banana instead of banana like people would because people don't say yellow because it's common. I also remember reading about the AI creating a model on past successful resumes which was biased and applying it to current people.
+
+# Day 10 (2/17)
+
+Convolutional Neural Network breaks up a image into smaller parts and then analyzes each feature in isolation which then make a decision about the image as a whole.
+
+Convolutional layer filters an image, scanning a few pixels at a time and creating a feature map that predicts the class to which each feature belongs to.
+
+Pooling layer (downsampling) keeps the most important parts of the convolutional layer. Several rounds of convolutional and pooling.
+
+Fully Connected Neural Network is taking the results from the convolution/pooling process and use them to classify the image into a label.
+
+Fully connected input layer takes the output of the previous layers and flattends them into a single vector.
+
+First fully connected layer takes the inputs from the feature analysis and applies weights to predict the correct label.
+
+Fully connected output layer gives the final probabilities for each label.
+ 
+Practical applications include predicting labels of images.
