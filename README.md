@@ -75,3 +75,7 @@ First fully connected layer takes the inputs from the feature analysis and appli
 Fully connected output layer gives the final probabilities for each label.
  
 Practical applications include predicting labels of images.
+
+# Day 11 (2/18)
+
+Notebook ExploringMNIST.ipynb for classifying handwritten digits.
