@@ -82,4 +82,4 @@ Notebook ExploringMNIST.ipynb for classifying handwritten digits.
 
 # Day 12 (2/19)
 
-I learned about data augmentation and the layers in the CNN. Still unsure about dropout. I uploaded an image classifer for cats and dogs and changed images amounts and epochs.
+I learned about data augmentation and the layers in the CNN. I uploaded an image classifer for cats and dogs and changed images amounts and epochs. I learned to prefetch images to avoid I/O because loading from disk is slower than loading from memory.
