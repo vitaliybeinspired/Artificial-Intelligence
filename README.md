@@ -79,3 +79,7 @@ Practical applications include predicting labels of images.
 # Day 11 (2/18)
 
 Notebook ExploringMNIST.ipynb for classifying handwritten digits.
+
+# Day 12 (2/19)
+
+I learned about data augmentation and the layers in the CNN. Still unsure about dropout. I uploaded an image classifer for cats and dogs and changed images amounts and epochs.
