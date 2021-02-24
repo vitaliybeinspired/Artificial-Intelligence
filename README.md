@@ -87,3 +87,8 @@ I learned about data augmentation and the layers in the CNN. I uploaded an image
 # Day 15 (2/22)
 
 Today I learned about k-folds and how kaggle vs colab notebooks
+
+# Day 16 (2/23)
+
+The advantages of the Rectified Linear (ReLu) activation function is that it overcomes the vanishing gradient problem and allows models to learn faster and perform better. It’s good for multiplayer perceptrons and CNN’s. It ranges from 0 to 1 output. Inputs need to be normalized and standardized. I would use the ReLu for images.
+
