@@ -92,3 +92,8 @@ Today I learned about k-folds and how kaggle vs colab notebooks
 
 The advantages of the Rectified Linear (ReLu) activation function is that it overcomes the vanishing gradient problem and allows models to learn faster and perform better. It’s good for multiplayer perceptrons and CNN’s. It ranges from 0 to 1 output. Inputs need to be normalized and standardized. I would use the ReLu for images.
 
+# Day 18 (2/25)
+
+I learned underfitting is a model that doesn’t generalize well and can be fixed by increasing capacity like adding more training examples, nodes and layers. Overfitting is a model that does too well on the training data but not on test data. This can be fixed with dropout and stopping when validation loss starts increasing. Weights need to be small because large weighs cause sharp transitions in the activation functions and result in large changes in output for small changes in input.
+
+I changed the house_price_prediction.ipynb to test changing loss from binary_crossentropy to mean_squared_error. The result was that binary_crossentropy accuracy was 87% for 10 epochs and mean_squared_error was 51% accuracy for 10 epochs
