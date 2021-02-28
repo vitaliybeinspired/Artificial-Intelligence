@@ -100,5 +100,6 @@ I changed the house_price_prediction.ipynb to test changing loss from binary_cro
 
 # Day 19 (2/26)
 
-I learned about Upsampling and tranposing 2dconv and autoencoders.
+I learned about Upsampling and tranposing 2dconv and autoencoders. 
+I learned about GAN networks how they create real and fake data and try to disciminate which one it is.
 Uploaded two notebooks.
