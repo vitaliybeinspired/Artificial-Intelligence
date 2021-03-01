@@ -107,3 +107,7 @@ I changed the house_price_prediction.ipynb to test changing loss from binary_cro
 I learned about Upsampling and tranposing 2dconv and autoencoders. 
 I learned about GAN networks how they create real and fake data and try to disciminate which one it is.
 Uploaded two notebooks.
+
+# DAY 22 (3/1) - NATURAL LANGUAGE PROCESSING (NLP)
+
+I used flair for NLP to detect Named Entity Recognition. 
