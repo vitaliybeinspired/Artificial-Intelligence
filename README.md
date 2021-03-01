@@ -111,3 +111,4 @@ Uploaded two notebooks.
 # DAY 22 (3/1) - NATURAL LANGUAGE PROCESSING (NLP)
 
 I used flair for NLP to detect Named Entity Recognition. 
+The GPT-2 model from openAI created a paragraph story out of a sentence. Writers may use this to generate blogs or even write books, completely replacing authors.
