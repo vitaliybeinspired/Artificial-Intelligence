@@ -112,3 +112,6 @@ Uploaded two notebooks.
 
 I used flair for NLP to detect Named Entity Recognition. 
 The GPT-2 model from openAI created a paragraph story out of a sentence. Writers may use this to generate blogs or even write books, completely replacing authors.
+
+# Day 23
+Add emotion detection model that uses OpenCV (Computer Vision)
