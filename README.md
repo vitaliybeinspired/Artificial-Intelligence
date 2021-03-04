@@ -117,4 +117,4 @@ The GPT-2 model from openAI created a paragraph story out of a sentence. Writers
 Add emotion detection model that uses OpenCV (Computer Vision)
 
 # Day 24
-Adding speech emotion analyzer folder. I learned about using pyaudio to record self in python.
+Adding speech emotion analyzer folder from Mitesh Puthran. I learned about using pyaudio to record self in python.
