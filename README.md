@@ -118,3 +118,6 @@ Add emotion detection model that uses OpenCV (Computer Vision)
 
 # Day 24
 Adding speech emotion analyzer folder from Mitesh Puthran. I learned about using pyaudio to record self in python.
+
+# Makeathon
+2nd place winner! Team Aither. 
